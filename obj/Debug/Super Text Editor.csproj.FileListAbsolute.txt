@@ -1,0 +1,11 @@
+C:\Users\chris\Desktop\Super Text Editor\bin\Debug\Super Text Editor.exe.config
+C:\Users\chris\Desktop\Super Text Editor\bin\Debug\Super Text Editor.exe
+C:\Users\chris\Desktop\Super Text Editor\bin\Debug\Super Text Editor.pdb
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super_Text_Editor.Form1.resources
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super_Text_Editor.Properties.Resources.resources
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.exe
+C:\Users\chris\Desktop\Super Text Editor\obj\Debug\Super Text Editor.pdb
